@@ -1,0 +1,379 @@
+[
+  {
+    "player_id": 1,
+    "player_name": "Cameron Boozer",
+    "jersey": 12,
+    "team": "Duke",
+    "position": "F",
+    "height": "6'9\"",
+    "stats": { "ppg": 17.4, "rpg": 8.6, "apg": 2.3, "mpg": 31.5 },
+    "game_log": [
+      { "game": 1, "minutes": 30 },
+      { "game": 2, "minutes": 33 },
+      { "game": 3, "minutes": 29 },
+      { "game": 4, "minutes": 34 }
+    ]
+  },
+  {
+    "player_id": 2,
+    "player_name": "Cayden Boozer",
+    "jersey": 2,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'4\"",
+    "stats": { "ppg": 12.1, "rpg": 3.1, "apg": 5.2, "mpg": 29.8 },
+    "game_log": [
+      { "game": 1, "minutes": 28 },
+      { "game": 2, "minutes": 31 },
+      { "game": 3, "minutes": 27 },
+      { "game": 4, "minutes": 33 }
+    ]
+  },
+  {
+    "player_id": 3,
+    "player_name": "Maliq Brown",
+    "jersey": 6,
+    "team": "Duke",
+    "position": "F",
+    "height": "6'9\"",
+    "stats": { "ppg": 9.8, "rpg": 7.4, "apg": 1.9, "mpg": 24.6 },
+    "game_log": [
+      { "game": 1, "minutes": 23 },
+      { "game": 2, "minutes": 26 },
+      { "game": 3, "minutes": 25 },
+      { "game": 4, "minutes": 24 }
+    ]
+  },
+  {
+    "player_id": 4,
+    "player_name": "Isaiah Evans",
+    "jersey": 3,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'6\"",
+    "stats": { "ppg": 14.6, "rpg": 4.3, "apg": 2.1, "mpg": 30.2 },
+    "game_log": [
+      { "game": 1, "minutes": 29 },
+      { "game": 2, "minutes": 32 },
+      { "game": 3, "minutes": 28 },
+      { "game": 4, "minutes": 31 }
+    ]
+  },
+  {
+    "player_id": 5,
+    "player_name": "Caleb Foster",
+    "jersey": 1,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'5\"",
+    "stats": { "ppg": 10.9, "rpg": 3.0, "apg": 3.8, "mpg": 26.7 },
+    "game_log": [
+      { "game": 1, "minutes": 25 },
+      { "game": 2, "minutes": 28 },
+      { "game": 3, "minutes": 24 },
+      { "game": 4, "minutes": 30 }
+    ]
+  },
+  {
+    "player_id": 6,
+    "player_name": "Darren Harris",
+    "jersey": 8,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'5\"",
+    "stats": { "ppg": 6.5, "rpg": 2.7, "apg": 1.4, "mpg": 18.9 },
+    "game_log": [
+      { "game": 1, "minutes": 17 },
+      { "game": 2, "minutes": 20 },
+      { "game": 3, "minutes": 18 },
+      { "game": 4, "minutes": 21 }
+    ]
+  },
+  {
+    "player_id": 7,
+    "player_name": "Nikolas Khamenia",
+    "jersey": 14,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'8\"",
+    "stats": { "ppg": 7.3, "rpg": 4.5, "apg": 1.2, "mpg": 20.4 },
+    "game_log": [
+      { "game": 1, "minutes": 19 },
+      { "game": 2, "minutes": 22 },
+      { "game": 3, "minutes": 18 },
+      { "game": 4, "minutes": 23 }
+    ]
+  },
+  {
+    "player_id": 8,
+    "player_name": "Patrick Ngongba II",
+    "jersey": 21,
+    "team": "Duke",
+    "position": "C",
+    "height": "6'11\"",
+    "stats": { "ppg": 8.4, "rpg": 6.9, "apg": 0.9, "mpg": 22.7 },
+    "game_log": [
+      { "game": 1, "minutes": 21 },
+      { "game": 2, "minutes": 24 },
+      { "game": 3, "minutes": 22 },
+      { "game": 4, "minutes": 23 }
+    ]
+  },
+  {
+    "player_id": 9,
+    "player_name": "Dame Sarr",
+    "jersey": 7,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'8\"",
+    "stats": { "ppg": 5.9, "rpg": 2.8, "apg": 1.7, "mpg": 16.3 },
+    "game_log": [
+      { "game": 1, "minutes": 15 },
+      { "game": 2, "minutes": 18 },
+      { "game": 3, "minutes": 14 },
+      { "game": 4, "minutes": 18 }
+    ]
+  },
+  {
+    "player_id": 10,
+    "player_name": "Jack Scott",
+    "jersey": 20,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'6\"",
+    "stats": { "ppg": 4.7, "rpg": 2.2, "apg": 0.8, "mpg": 13.5 },
+    "game_log": [
+      { "game": 1, "minutes": 12 },
+      { "game": 2, "minutes": 14 },
+      { "game": 3, "minutes": 13 },
+      { "game": 4, "minutes": 15 }
+    ]
+  },
+  {
+    "player_id": 11,
+    "player_name": "Cameron Sheffield",
+    "jersey": 13,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'6\"",
+    "stats": { "ppg": 3.8, "rpg": 1.9, "apg": 0.6, "mpg": 10.7 },
+    "game_log": [
+      { "game": 1, "minutes": 11 },
+      { "game": 2, "minutes": 9 },
+      { "game": 3, "minutes": 12 },
+      { "game": 4, "minutes": 10 }
+    ]
+  },
+  {
+    "player_id": 12,
+    "player_name": "Ifeanyi Ufochukwu",
+    "jersey": 15,
+    "team": "Duke",
+    "position": "C",
+    "height": "6'11\"",
+    "stats": { "ppg": 2.9, "rpg": 3.6, "apg": 0.3, "mpg": 9.4 },
+    "game_log": [
+      { "game": 1, "minutes": 8 },
+      { "game": 2, "minutes": 10 },
+      { "game": 3, "minutes": 9 },
+      { "game": 4, "minutes": 11 }
+    ]
+  },
+  {
+    "player_id": 13,
+    "player_name": "Sebastian Wilkins",
+    "jersey": 5,
+    "team": "Duke",
+    "position": "G",
+    "height": "6'8\"",
+    "stats": { "ppg": 11.3, "rpg": 4.1, "apg": 2.0, "mpg": 27.6 },
+    "game_log": [
+      { "game": 1, "minutes": 26 },
+      { "game": 2, "minutes": 29 },
+      { "game": 3, "minutes": 27 },
+      { "game": 4, "minutes": 28 }
+    ]
+  },
+
+  {
+    "player_id": 101,
+    "player_name": "Luka Bogavac",
+    "jersey": 44,
+    "team": "UNC",
+    "position": "G",
+    "height": "6'6\"",
+    "stats": { "ppg": 8.7, "rpg": 3.1, "apg": 1.9, "mpg": 22.4 },
+    "game_log": [
+      { "game": 1, "minutes": 21 },
+      { "game": 2, "minutes": 24 },
+      { "game": 3, "minutes": 20 },
+      { "game": 4, "minutes": 25 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "James Brown",
+    "stats": { "ppg": 3.2, "rpg": 2.1, "apg": 0.5, "mpg": 9.8 },
+    "game_log": [
+      { "game": 1, "minutes": 8 },
+      { "game": 2, "minutes": 11 },
+      { "game": 3, "minutes": 9 },
+      { "game": 4, "minutes": 12 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Elijah Davis",
+    "stats": { "ppg": 2.5, "rpg": 1.8, "apg": 0.7, "mpg": 8.4 },
+    "game_log": [
+      { "game": 1, "minutes": 7 },
+      { "game": 2, "minutes": 10 },
+      { "game": 3, "minutes": 8 },
+      { "game": 4, "minutes": 9 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Isaiah Denis",
+    "stats": { "ppg": 4.1, "rpg": 1.3, "apg": 1.0, "mpg": 10.2 },
+    "game_log": [
+      { "game": 1, "minutes": 9 },
+      { "game": 2, "minutes": 12 },
+      { "game": 3, "minutes": 11 },
+      { "game": 4, "minutes": 10 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Derek Dixon",
+    "stats": { "ppg": 7.3, "rpg": 2.2, "apg": 1.5, "mpg": 19.4 },
+    "game_log": [
+      { "game": 1, "minutes": 18 },
+      { "game": 2, "minutes": 21 },
+      { "game": 3, "minutes": 20 },
+      { "game": 4, "minutes": 19 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Kyan Evans",
+    "stats": { "ppg": 5.9, "rpg": 1.7, "apg": 2.3, "mpg": 17.6 },
+    "game_log": [
+      { "game": 1, "minutes": 18 },
+      { "game": 2, "minutes": 16 },
+      { "game": 3, "minutes": 19 },
+      { "game": 4, "minutes": 17 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Zayden High",
+    "stats": { "ppg": 6.4, "rpg": 4.2, "apg": 0.9, "mpg": 18.1 },
+    "game_log": [
+      { "game": 1, "minutes": 17 },
+      { "game": 2, "minutes": 19 },
+      { "game": 3, "minutes": 18 },
+      { "game": 4, "minutes": 20 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "John Holbrook",
+    "stats": { "ppg": 5.2, "rpg": 3.5, "apg": 0.6, "mpg": 14.8 },
+    "game_log": [
+      { "game": 1, "minutes": 15 },
+      { "game": 2, "minutes": 14 },
+      { "game": 3, "minutes": 16 },
+      { "game": 4, "minutes": 14 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Ivan Matlekovic",
+    "stats": { "ppg": 4.8, "rpg": 3.9, "apg": 0.4, "mpg": 12.3 },
+    "game_log": [
+      { "game": 1, "minutes": 11 },
+      { "game": 2, "minutes": 13 },
+      { "game": 3, "minutes": 12 },
+      { "game": 4, "minutes": 14 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Jonathan Powell",
+    "stats": { "ppg": 6.7, "rpg": 2.0, "apg": 1.4, "mpg": 16.5 },
+    "game_log": [
+      { "game": 1, "minutes": 15 },
+      { "game": 2, "minutes": 17 },
+      { "game": 3, "minutes": 18 },
+      { "game": 4, "minutes": 16 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Evan Smith",
+    "stats": { "ppg": 5.3, "rpg": 2.4, "apg": 1.1, "mpg": 14.9 },
+    "game_log": [
+      { "game": 1, "minutes": 14 },
+      { "game": 2, "minutes": 16 },
+      { "game": 3, "minutes": 15 },
+      { "game": 4, "minutes": 14 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Jarin Stevenson",
+    "stats": { "ppg": 7.9, "rpg": 4.8, "apg": 1.3, "mpg": 21.0 },
+    "game_log": [
+      { "game": 1, "minutes": 20 },
+      { "game": 2, "minutes": 22 },
+      { "game": 3, "minutes": 21 },
+      { "game": 4, "minutes": 23 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Seth Trimble",
+    "stats": { "ppg": 9.6, "rpg": 2.7, "apg": 2.1, "mpg": 23.4 },
+    "game_log": [
+      { "game": 1, "minutes": 22 },
+      { "game": 2, "minutes": 24 },
+      { "game": 3, "minutes": 25 },
+      { "game": 4, "minutes": 23 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Henri Veesaar",
+    "stats": { "ppg": 5.5, "rpg": 4.1, "apg": 0.5, "mpg": 16.2 },
+    "game_log": [
+      { "game": 1, "minutes": 15 },
+      { "game": 2, "minutes": 17 },
+      { "game": 3, "minutes": 16 },
+      { "game": 4, "minutes": 18 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Caleb Wilson",
+    "stats": { "ppg": 6.2, "rpg": 3.8, "apg": 0.9, "mpg": 17.5 },
+    "game_log": [
+      { "game": 1, "minutes": 18 },
+      { "game": 2, "minutes": 16 },
+      { "game": 3, "minutes": 19 },
+      { "game": 4, "minutes": 17 }
+    ]
+  },
+  {
+    "team": "UNC",
+    "player_name": "Jaydon Young",
+    "stats": { "ppg": 7.1, "rpg": 2.2, "apg": 1.7, "mpg": 20.4 },
+    "game_log": [
+      { "game": 1, "minutes": 19 },
+      { "game": 2, "minutes": 21 },
+      { "game": 3, "minutes": 20 },
+      { "game": 4, "minutes": 22 }
+    ]
+  }
+]
+
