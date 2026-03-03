@@ -1,4 +1,4 @@
-# Rivalry Tenting Test
+# Duke-UNC Rivalry Tenting Test
 
 **Tagline:** Study Duke vs UNC player stats with an interactive dashboard, build a personalized “study cart,” then quiz yourself so you don’t sell your team on tenting test day.
 
