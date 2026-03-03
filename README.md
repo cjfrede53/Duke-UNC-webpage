@@ -91,3 +91,102 @@ npm install
 
 # run dev server
 npm run dev
+
+
+## Usage
+
+### Home Page
+
+When you first open the site, you’ll see the **Rivalry Tenting Test** landing page.
+
+- Click **Start Studying** to open the player dashboard.
+- Click **Take the Quiz** to test yourself on the players currently in your study cart.
+
+The home page functions as a mission briefing: it sets the goal (memorize roster knowledge) and directs you into either study mode or quiz mode.
+
+---
+
+### Dashboard (Study Mode)
+
+The dashboard is the core interactive exploration interface.
+
+1. **Select a Team**
+   - Choose Duke or UNC from the dropdown.
+   - This filters the available roster.
+
+2. **Select a Player**
+   - Choose a player from the team roster dropdown.
+   - The system immediately updates:
+     - Stats cards (PPG, RPG, APG, MPG)
+     - Minutes-per-game visualization (bar chart)
+
+3. **Review Visual Feedback**
+   - The chart shows minutes played across recent games.
+   - The stat cards reinforce numeric performance data.
+   - This dual representation (numbers + chart) supports recognition and comparison.
+
+4. **Add to Study Cart**
+   - Use the checkbox or add-to-cart interaction to mark a player for quiz inclusion.
+   - The study cart dynamically updates to reflect your selected players.
+
+The dashboard supports focused, one-player-at-a-time study to reduce cognitive overload.
+
+---
+
+### Quiz Page
+
+The quiz page pulls only from the players currently in your **Study Cart**.
+
+- Questions are generated from player data in `players.json`.
+- The quiz tests recognition and recall of player stats and attributes.
+- Immediate feedback is given for answers.
+- Results influence what the user chooses to restudy next.
+
+If no players are in the study cart, the quiz will prompt the user to return to the dashboard and select players.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file in this repository for full details.
+
+MIT License allows reuse, modification, and distribution with attribution.
+
+---
+
+## Acknowledgments
+
+This project was built using:
+
+- **SvelteKit** (framework)
+- **Vite** (build tool)
+- **Chart.js** (data visualization)
+- **JavaScript (ES Modules)**
+- **Local JSON dataset** (`src/lib/data/players.json`)
+
+Conceptual influences include:
+
+- Retrieval practice learning theory
+- Dashboard-style analytics interfaces
+- Sports roster visualization tools
+
+---
+
+## Roadmap
+
+Planned future improvements include:
+
+- Figure out a way to incorporate Machine Learning (Teachable Machine?) to perhaps make an interactive scavenger hunt
+- Add difficulty modes:
+  - Multiple choice
+  - Free response
+- Add a “missed questions” review mode
+- Add comparison view (compare two players side-by-side)
+- Add more advanced visualizations (trend lines, shot distribution, efficiency metrics)
+- Integrate persistent storage (localStorage or database) to save quiz history
+- Improve mobile responsiveness
+- Add subtle animations to reinforce feedback loops
+
+The long-term goal is to transform this from a static study aid into a dynamic, adaptive memorization tool.
