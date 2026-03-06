@@ -4,7 +4,7 @@
 
 <main class="home">
 	<div class="heroCard">
-		<h1>Rivalry Tenting Test</h1>
+		<h1>Duke-UNC Rivalry Tenting Test</h1>
 
 		<p class="tagline">
 			Think you know the roster?

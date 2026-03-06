@@ -66,7 +66,7 @@
 
 			<div class="prompt">
 				<div class="muted">Player:</div>
-				<div class="big">{showAnswer ? current.player_name : '????'}</div>
+				<div class="big">{current.player_name}</div>
 			</div>
 
 			<div class="divider"></div>
